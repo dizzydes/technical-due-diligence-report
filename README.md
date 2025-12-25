@@ -1,6 +1,6 @@
 # TECHNICAL DUE DILIGENCE REPORT
 
-Need a Technical Due Diligence report? [Book a free no-commitment chat today.](https://bogatell.io/technical-due-diligence?utm_source=github)
+Need a Technical Due Diligence report? [Book a free no-commitment chat today.](https://bogatell.io?utm_source=github)
 
 **Target Asset:** Project Apex (SaaS - Field Service Management)  
 **Date:** December 18, 2025
@@ -138,4 +138,4 @@ The following costs should be factored into the final purchase price or set asid
 
 ***
 
-Need a Technical Due Diligence report? [Book a free no-commitment chat today.](https://bogatell.io/technical-due-diligence?utm_source=github)
+Need a Technical Due Diligence report? [Book a free no-commitment chat today.](https://bogatell.io?utm_source=github)
